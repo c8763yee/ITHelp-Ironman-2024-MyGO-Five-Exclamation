@@ -1,2 +1,2 @@
 # MyGO-Five-Exclamation
-My golang project for ITHelp ironman 2024 (2024/08~10)
+My Golang project for ITHelp ironman 2024 contest (Perhaps start from 2024/08 or 2024/09)
