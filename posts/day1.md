@@ -47,8 +47,8 @@ tags: [鐵人賽, Golang]
     - Gin上傳檔案
     - Gin撰寫RESTful API
 - 專案練習 (4天): 基於字幕搜尋影片片段
-    - 讀取JSON並轉為SQLite,
-    - 
+
+----------------------
 那麼今天的文章就到這告一段落，如果我的文章有任何地方有錯誤請在留言區反應
 明天將會介紹Go語言的歷史與特色
 ![time](https://i.imgur.com/Hk7po4w.gif)
