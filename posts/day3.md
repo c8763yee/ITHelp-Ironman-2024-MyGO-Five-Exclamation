@@ -7,7 +7,7 @@ tags: [鐵人賽, Golang]
 # Day3. 安裝Go與設定開發環境
 如果只是想嘗試一下Go語言的語法的話，官方有提供[Playground(https://go.dev/play/)](https://go.dev/play/)，可以在這裡嘗試Go語言的語法。官方也有提供一些範例可以進行參考
 ## 安裝Go
-首先，進到[Go官網的下載界面(https://go.dev/doc/install)](https://go.dev/doc/install)，點擊Download按鈕![download button](image.png)再根據自己系統下載檔案![Image](https://i.imgur.com/cKMbdzK.png)
+首先，進到[Go官網的下載界面(https://go.dev/doc/install)](https://go.dev/doc/install)，點擊Download按鈕![Image](https://i.imgur.com/MBNbviE.png)再根據自己系統下載檔案![Image](https://i.imgur.com/cKMbdzK.png)
 
 ### 各系統的安裝方式
 - Linux:
