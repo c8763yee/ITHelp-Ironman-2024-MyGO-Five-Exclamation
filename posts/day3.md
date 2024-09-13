@@ -1,9 +1,3 @@
----
-title: Day3. 安裝Go與設定開發環境
-tags: [鐵人賽, Golang]
-
----
-
 # Day3. 安裝Go與設定開發環境
 如果只是想嘗試一下Go語言的語法的話，官方有提供[Playground(https://go.dev/play/)](https://go.dev/play/)，可以在這裡嘗試Go語言的語法。官方也有提供一些範例可以進行參考
 ## 安裝Go

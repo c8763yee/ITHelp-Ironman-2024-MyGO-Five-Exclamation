@@ -1,9 +1,3 @@
----
-title: 'Day6. if-else, switch case, goto'
-tags: [鐵人賽, Golang]
-
----
-
 # Day6. 條件與跳轉
 今天來講Go語言如何處理條件與跳轉
 ## if-else
