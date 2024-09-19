@@ -10,5 +10,6 @@
         "program": "${file}"
       }
     ]
-  }
+  },
+  "taipyStudio.gUI.elementsFilePaths": []
 }
